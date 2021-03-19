@@ -15,7 +15,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  geolocator: ^3.0.1
+  http: ^0.12.0+2
+  flutter_spinkit: "^3.0.0"
 flutter:
   uses-material-design: true
 
